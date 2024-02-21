@@ -20,7 +20,7 @@ Join us as we embark on this enlightening odyssey, where the convergence of tech
 
 
 
-<p align="center"><img src="medium/Screenshot from 2024-01-28 10-03-12.png" width="480"\></p> 
+<p align="center"><img src="medium/Screenshot from 2024-01-28 10-04-56.png" width="480"\></p> 
 
 <p align="center"><img src="medium/Screenshot from 2024-01-28 10-04-52.png" width="480"\></p>
 
