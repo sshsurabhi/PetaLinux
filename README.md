@@ -1,13 +1,25 @@
 # PetaLinux Environment Creation using Zynq UltraScale+ MpSoc
 In a world where technology seamlessly intertwines with our daily lives, embedded systems stand as the unsung heroes, quietly powering the devices we rely on every day. These systems, blending hardware and software intricately, bring forth a symphony of functionality, efficiency, and innovation. At the heart of this realm lies embedded Linux, an agile and open-source operating system shaping the very core of modern embedded devices, offering a playground of customization and scalability.
 
+<<<<<<< HEAD
 Enter the Zynq UltraScale+ MPSoC, a beacon of computational prowess, seamlessly merging processing capabilities and programmable logic to deliver a powerhouse fit for complex embedded applications. From automotive advancements to IoT marvels, this platform stands tall, driving innovation across industries with its versatility and performance.
 
 As we embark on a journey into the depths of FPGA development, we set our sights on Vivado 2019.2, a gateway to crafting a small RTL project with precision and finesse. Our canvas expands further as we delve into the intricate process of setting up Ubuntu 18.04.2, paving the way for seamless integration of tools and frameworks crucial for our endeavor. Alongside, Petalinux 2019.2 beckons, offering a realm of possibilities in shaping a tailored Linux environment to suit our project's unique demands.
+=======
+In a world where technology seamlessly intertwines with our daily lives, embedded systems stand as the unsung heroes, quietly powering the devices we rely on every day. These systems, blending hardware and software intricately, bring forth a symphony of functionality, efficiency, and innovation. At the heart of this realm lies embedded Linux, an agile and open-source operating system shaping the very core of modern embedded devices, offering a playground of customization and scalability.
+
+Enter the Zynq UltraScale+ MPSoC, a beacon of computational prowess, seamlessly merging processing capabilities and programmable logic to deliver a powerhouse fit for complex embedded applications. From automotive advancements to IoT marvels, this platform stands tall, driving innovation across industries with its versatility and performance.
+
+As we embark on a journey into the depths of FPGA development, we set our sights on Vivado 2019.2, a gateway to crafting a small RTL project with precision and finesse. Our canvas expands further as we delve into the intricate process of setting up Ubuntu 18.04.2, paving the way for a seamless integration of tools and frameworks crucial for our endeavor. Alongside, Petalinux 2019.2 beckons, offering a realm of possibilities in shaping a tailored Linux environment to suit our project's unique demands.
+>>>>>>> 76f32af (My first Commit)
 
 Within the confines of memory limitations, we navigate the delicate dance of resource optimization on the Zynq UltraScale+ MPSoC, seeking to maximize efficiency while ensuring peak performance. As we tread this path, we unravel the complexities of embedded systems, each step bringing us closer to a world where innovation meets execution with precision.
 
 Join us as we embark on this enlightening odyssey, where the convergence of technology and creativity paints a canvas of possibilities waiting to be explored.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 76f32af (My first Commit)
 <p align="center"><img src="medium/Screenshot from 2024-01-28 10-03-12.png" width="480"\></p> 
 
 <p align="center"><img src="medium/Screenshot from 2024-01-28 10-04-52.png" width="480"\></p>
