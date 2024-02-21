@@ -20,7 +20,7 @@ Join us as we embark on this enlightening odyssey, where the convergence of tech
 
 
 
-<p align="center"><img src="medium/Screenshot from 2024-01-28 10-04-56.png" width="480"\></p> 
+<p align="center"><img src="medium/Screenshot from 2024-01-28 10-04-56.png" width="480"\></p>
 
 <p align="center"><img src="medium/Screenshot from 2024-01-28 10-04-52.png" width="480"\></p>
 
@@ -29,6 +29,8 @@ Installing Ubuntu on a virtual environment is also okay, but there are some comp
 So we have to install everything - Vivado, Vitis, along Petalinux - in the Ubuntu environment itself. Even after this, there will be complications. Creating and running a Vivado project in Virtualbox is not easy, especially if the project is big. In that case, we need a much larger memory size, such as good RAM, to run and create the Bitstream file.
 
 In my opinion, installing everything (Vivado, Vitis, Petalinux, etc.) on a separate Ubuntu desktop is much better than Virtualbox. We have to carefully follow the installation guide before installation itself, or it will be a very time-consuming process later.
+
+<p align="center"><img src="medium/lem-860x460_huc8ceac6795e96bd3c3e9214bc44d2739_437184_0x450_resize_q90_h2_lanczos_3.webp" width="480"\></p>
 
 Again, Petalinux and Vivado Vitis are interrelated. If we are using Vivado 2019.2, then we have to install Petalinux 2019.2 only, not any other version. Installing Vivado on Ubuntu is version-specific so we have to go through every line of the Vivado installation guide before installing Ubuntu itself to avoid unnecessary time waste.
 
